@@ -1,10 +1,10 @@
 <?php
     function db_connect()
     {
-        $servername = 'bus-server.mysql.database.azure.com';
-        $username = 'ckmrtvrmfb';
-        $password = 'OfurQtisZyHN$UM6';
-        $database = 'bus-database';
+        $servername = 'bus-server2.mysql.database.azure.com';
+        $username = 'virtualmachine1';
+        $password = 'Azurevmtzy10#';
+        $database = 'sbtbsphp';
 
         $conn = mysqli_connect($servername, $username, $password, $database);
         return $conn;
