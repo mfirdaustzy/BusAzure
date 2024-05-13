@@ -1,8 +1,8 @@
 <?php
     function db_connect()
     {
-        $servername = 'appservice202db.database.windows.net';
-        $username = 'Appservice20';
+        $servername = 'booking2.mysql.database.azure.com';
+        $username = 'booking1';
         $password = 'Firdaustzy10#';
         $database = 'sbtbsphp';
 
