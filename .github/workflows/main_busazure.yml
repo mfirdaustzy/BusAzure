@@ -63,4 +63,4 @@ jobs:
           app-name: 'BusAzure'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C95727AE99A14E33848BA16CCD5CC172 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_96F2DFEB14B8449987BD0A8C228DB8AC }}
